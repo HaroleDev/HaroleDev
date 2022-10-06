@@ -3,7 +3,7 @@
 function target(e){
     top.location.href = `${window.location.href.split('#')[0]}#${e}`
 }
-window.addEventListener('load', () => {
+window.addEventListener('DOMContentLoaded', () => {
     document.querySelector('.link-con').classList.remove('load')
 })
 </script>
