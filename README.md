@@ -1,4 +1,4 @@
-# <a href="#"><img alt="Brief Introduction" title="Brief Introduction" width="300" src="https://user-images.githubusercontent.com/47141290/194378653-fce9d422-3e71-4410-9b88-469ed096528f.svg"></a>
+# <a href="#"><img alt="Brief Introduction" title="Brief Introduction" width="300" src="https://user-images.githubusercontent.com/47141290/194379434-3cbe6917-de61-4d35-b9ac-69fe23cede3f.svg"></a>
 
 Coming Soon...
 <figure title="Harole's Signature">
