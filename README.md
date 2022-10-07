@@ -1,4 +1,4 @@
-# <a href="#"><img alt="Brief Introduction" title="Brief Introduction" width="300" src="https://user-images.githubusercontent.com/47141290/194546977-211b74c5-2812-4f8f-bae4-7b54fc039c64.svg"></a>
+# <a href="#"><img alt="Brief Introduction" title="Brief Introduction" width="100%" height="44" src="https://user-images.githubusercontent.com/47141290/194546977-211b74c5-2812-4f8f-bae4-7b54fc039c64.svg"></a>
 Coming Soon...
 
 
