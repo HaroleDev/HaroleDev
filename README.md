@@ -1,4 +1,4 @@
-<h2 id="brief_introduction">
+<h1 id="brief_introduction">
     <a href="#user-content-brief_introduction">
         <picture>
             <source media="(prefers-color-scheme: light)" type="image/svg+xml" srcset="https://user-images.githubusercontent.com/47141290/194612758-4236bb22-6fce-4bd6-8d1c-4c3faa531bfa.svg">
@@ -6,13 +6,11 @@
             <img alt="Brief Introduction" title="Brief Introduction" type="image/svg+xml" height="48" loading="lazy" src="https://user-images.githubusercontent.com/47141290/194612758-4236bb22-6fce-4bd6-8d1c-4c3faa531bfa.svg">
         </picture>
     </a>
-</h2>
+</h1>
 <img align="right" src="https://user-images.githubusercontent.com/47141290/194621306-6b2e7116-c046-4bfb-9f03-0ce2528d8413.svg" width="150" alt="Harole working on his laptop">
-
 Hello! I’m nicknamed Harole Duong (also called Harole Ethan, or Harole for short), and I describe myself as a quirky hobbyist. I've been self-taught as a visual designer, illustrator, and programmer since I was an adolescent, and now I've taught myself other hobbies since then.
 <br><br>
 Aside from that, I’m a student studying at an international American school in Southern Vietnam.
-<br>
 
 ---
 <figure title="Harole's Signature">
