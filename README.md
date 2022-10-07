@@ -8,9 +8,9 @@
     </a>
 </h1>
 <picture>
-    <source media="(prefers-color-scheme: light)" type="image/svg+xml" srcset="https://user-images.githubusercontent.com/47141290/194621306-6b2e7116-c046-4bfb-9f03-0ce2528d8413.svg">
-    <source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="https://user-images.githubusercontent.com/47141290/194623910-cb96a037-a10e-448a-bf4d-55b2dd64264d.svg">
-    <img align="right" type="image/svg+xml" src="https://user-images.githubusercontent.com/47141290/194621306-6b2e7116-c046-4bfb-9f03-0ce2528d8413.svg" width="150" alt="Harole working on his laptop">
+    <source media="(prefers-color-scheme: light)" type="image/svg+xml" srcset="https://user-images.githubusercontent.com/47141290/194624591-a73394aa-84bb-47dc-8010-2bc84ed731ea.svg">
+    <source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="https://user-images.githubusercontent.com/47141290/194624583-20b1b388-8770-486c-929e-4bd66ce5b8f6.svg">
+    <img align="right" type="image/svg+xml" src="https://user-images.githubusercontent.com/47141290/194624591-a73394aa-84bb-47dc-8010-2bc84ed731ea.svg" width="150" alt="Harole working on his laptop">
 </picture>
 Hello! I’m nicknamed Harole Duong (also called Harole Ethan, or Harole for short), and I describe myself as a quirky hobbyist. I've been self-taught as a visual designer, illustrator, and programmer since I was an adolescent, and now I've taught myself other hobbies since then.
 <br><br>
