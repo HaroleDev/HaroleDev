@@ -1,4 +1,4 @@
-# <a href="#"><img alt="Brief Introduction" title="Brief Introduction" width="100%" height="44" src="https://user-images.githubusercontent.com/47141290/194552944-505ce911-8998-41b4-87a7-2f704f092e26.svg"></a>
+# <a href="#"><picture><source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/47141290/194553748-812004b9-7fd9-4826-8acb-0c9f002dd05f.svg"><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/47141290/194553742-ff60043b-8324-4e60-a943-7189b11d3d24.svg"><img alt="Brief Introduction" title="Brief Introduction" width="100%" height="44" src="https://user-images.githubusercontent.com/47141290/194553748-812004b9-7fd9-4826-8acb-0c9f002dd05f.svg"></picture></a>
 Coming Soon...
 
 
