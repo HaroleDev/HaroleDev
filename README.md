@@ -1,4 +1,4 @@
-# <a href="#"><picture><source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/47141290/194556397-a087f31d-ffca-4224-a067-87348d99f5fa.svg"><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/47141290/194556399-85a0fc02-781f-46b4-8565-53196e832a18.svg"><img alt="Brief Introduction" title="Brief Introduction" width="100%" height="44" src="https://user-images.githubusercontent.com/47141290/194556397-a087f31d-ffca-4224-a067-87348d99f5fa.svg"></picture></a>
+# <a href="#"><picture><source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/47141290/194557549-ba5c9afd-5c7e-41c8-ad5e-14f366593d9e.svg"><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/47141290/194557543-806f5fc5-891d-4cde-8d96-39bf33a2c830.svg"><img alt="Brief Introduction" title="Brief Introduction" width="100%" height="44" src="https://user-images.githubusercontent.com/47141290/194557549-ba5c9afd-5c7e-41c8-ad5e-14f366593d9e.svg"></picture></a>
 Coming Soon...
 
 <figure title="Harole's Signature">
