@@ -1,12 +1,12 @@
 <h1 id="brief_introduction">
     <a href="#user-content-brief_introduction">
         <picture>
-            <source media="(prefers-color-scheme: light)" type="image/svg+xml" srcset="https://user-images.githubusercontent.com/47141290/194699617-53ac6948-df6c-4a9c-b3f7-e780088404e4.svg">
-            <source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="https://user-images.githubusercontent.com/47141290/194699615-5a09a5b4-4b0c-4162-8b86-76028dce79e9.svg">
-            <img alt="Brief Introduction" title="Brief Introduction" type="image/svg+xml" height="42" loading="lazy" src="https://user-images.githubusercontent.com/47141290/194699617-53ac6948-df6c-4a9c-b3f7-e780088404e4.svg">
+            <source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="https://user-images.githubusercontent.com/47141290/194699830-0f43d3fd-f702-48db-8c9f-bd9eb79effb4.svg">
+            <img alt="Brief Introduction" title="Brief Introduction" type="image/svg+xml" height="42" loading="lazy" src="https://user-images.githubusercontent.com/47141290/194699832-49c607cb-6599-40a6-bcad-9d4716bfc137.svg">
         </picture>
     </a>
 </h1>
+
 
 <picture>
     <source media="(prefers-color-scheme: light)" type="image/svg+xml" srcset="https://user-images.githubusercontent.com/47141290/194624591-a73394aa-84bb-47dc-8010-2bc84ed731ea.svg">
