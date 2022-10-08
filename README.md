@@ -16,7 +16,7 @@
         <picture>
             <source media="(prefers-color-scheme: light)" type="image/svg+xml" srcset="./assets/headers/BI%20Heading.svg">
             <source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="./assets/headers/BI%20Heading%20Dark.svg">
-            <img alt="Brief Introduction" title="Brief Introduction" type="image/svg+xml" height="42" width="100%" loading="lazy" src="./assets/headers/BI%20Heading.svg">
+            <img alt="Brief Introduction" title="Brief Introduction" type="image/svg+xml" height="42" loading="lazy" src="./assets/headers/BI%20Heading.svg">
         </picture>
     </a>
 </h1>
