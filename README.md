@@ -1,6 +1,7 @@
 <h1 id="brief_introduction">
     <a href="#user-content-brief_introduction">
         <picture>
+            <source media="(prefers-color-scheme: light)" type="image/svg+xml" srcset="https://user-images.githubusercontent.com/47141290/194699832-49c607cb-6599-40a6-bcad-9d4716bfc137.svg">
             <source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="https://user-images.githubusercontent.com/47141290/194699830-0f43d3fd-f702-48db-8c9f-bd9eb79effb4.svg">
             <img alt="Brief Introduction" title="Brief Introduction" type="image/svg+xml" height="42" loading="lazy" src="https://user-images.githubusercontent.com/47141290/194699832-49c607cb-6599-40a6-bcad-9d4716bfc137.svg">
         </picture>
