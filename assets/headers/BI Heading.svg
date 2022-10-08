@@ -12,7 +12,7 @@
 </defs>
 <g class="link-con" mask="url(#gradient-mask)">
 <g class="blend">
-<text fill="white" class="font" xml:space="preserve" style="white-space: pre;" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="32" font-weight="800" letter-spacing="-0.04em" id="text"><tspan x="16" y="33.256" id="head">Brief Introduction</tspan></text>
+<text fill="black" class="font" xml:space="preserve" style="white-space: pre;" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="32" font-weight="800" letter-spacing="-0.04em" id="text"><tspan x="16" y="33.256" id="head">Brief Introduction</tspan></text>
 </g>
 <rect x="4" y="17" width="8" height="8" rx="10" fill="#00A877" id="link"/>
 </g>
