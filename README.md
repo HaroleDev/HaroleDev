@@ -1,7 +1,10 @@
 <figure id="quick_links">
 <p align="center">
-<a href="#user-content-quick_links"><img src="https://user-images.githubusercontent.com/47141290/194716520-218bd3fc-5883-42b6-80af-8bd617a16c7f.svg" width="auto" height="64"></a><a href="#user-content-quick_links"><img src="https://user-images.githubusercontent.com/47141290/194716679-28558e8a-5f3d-4446-a90d-b406d2ce67ef.svg" width="32" height="64"></a><a href="https://preview.studio.site/live/4BqN8BM2Wr"><img src="https://user-images.githubusercontent.com/47141290/194716518-b0d676a1-48b7-43d5-96c1-c1b9444e9821.svg" width="auto" height="64"></a><a href="mailto:teraos@proton.me"><img src="https://user-images.githubusercontent.com/47141290/194716517-27155ba0-d974-4340-a310-b3ccc765df2e.svg" width="auto" height="64"></a>
-    </p>
+<a href="#user-content-quick_links"><picture><source media="(prefers-color-scheme: light)" type="image/svg+xml" srcset="./assets/quick%20links/Frag%201%20Light.svg">
+<source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="./assets/quick%20links/Frag%201%20Dark.svg"><img type="image/svg+xml" alt="Quick Links" src="./assets/quick%20links/Frag%201%20Light.svg" width="auto" height="64"></picture></a><a href="https://preview.studio.site/live/4BqN8BM2Wr"><picture><source media="(prefers-color-scheme: light)" type="image/svg+xml" srcset="./assets/quick%20links/Frag%202%20Light.svg">
+<source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="./assets/quick%20links/Frag%202%20Dark.svg"><img type="image/svg+xml" alt="Personal Website" src="./assets/quick%20links/Frag%202%20Light.svg" width="auto" height="64"></picture></a><a href="mailto:teraos@proton.me"><picture><source media="(prefers-color-scheme: light)" type="image/svg+xml" srcset="./assets/quick%20links/Frag%203%20Light.svg">
+<source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="./assets/quick%20links/Frag%203%20Dark.svg"><img type="image/svg+xml" alt="Email" src="./assets/quick%20links/Frag%203%20Light.svg" width="auto" height="64"></picture></a>
+</p>
 </figure>
 <h1 id="brief_introduction">
     <a href="#user-content-brief_introduction">
