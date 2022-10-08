@@ -21,5 +21,5 @@ Aside from that, I’m a student studying at an international American school in
 
 <figure title="Harole's Signature">
 <img alt="Harole's Signature" type="image/svg+xml" title="Harole's Signature" width="200" src="./assets/illustrations/Harole's Signature.svg">
-<span>- Harole</span>
+<p>- Harole</p>
 </figure>
