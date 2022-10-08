@@ -18,6 +18,7 @@ Hello! I’m nicknamed Harole Duong (also called Harole Ethan, or Harole for sho
 Aside from that, I’m a student studying at an international American school in Southern Vietnam.
 
 ---
+
 <figure title="Harole's Signature">
 <img alt="Harole's Signature" title="Harole's Signature" width="200" src="https://user-images.githubusercontent.com/47141290/194127671-1d720896-257f-4ee0-b13e-d086d6909b26.svg">
 <span>- Harole</span>
