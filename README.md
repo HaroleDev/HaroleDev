@@ -1,9 +1,9 @@
 <h1 id="brief_introduction">
     <a href="#user-content-brief_introduction">
         <picture>
-            <source media="(prefers-color-scheme: light)" type="image/svg+xml" srcset="https://user-images.githubusercontent.com/47141290/194688965-d08104f4-fd3d-40f6-bad9-80a409525c99.svg">
-            <source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="https://user-images.githubusercontent.com/47141290/194688968-c461e711-90c7-4a68-85d1-e156dc1546fe.svg">
-            <img alt="Brief Introduction" title="Brief Introduction" type="image/svg+xml" height="48" loading="lazy" src="https://user-images.githubusercontent.com/47141290/194688965-d08104f4-fd3d-40f6-bad9-80a409525c99.svg">
+            <source media="(prefers-color-scheme: light)" type="image/svg+xml" srcset="https://user-images.githubusercontent.com/47141290/194689717-0f3e1a61-b301-4563-8ca4-71191e3e8504.svg">
+            <source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="https://user-images.githubusercontent.com/47141290/194689718-4bce6c45-842b-4926-86fc-593f775ec777.svg">
+            <img alt="Brief Introduction" title="Brief Introduction" type="image/svg+xml" height="42" loading="lazy" src="https://user-images.githubusercontent.com/47141290/194689717-0f3e1a61-b301-4563-8ca4-71191e3e8504.svg">
         </picture>
     </a>
 </h1>
