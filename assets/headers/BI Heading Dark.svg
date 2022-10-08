@@ -122,7 +122,6 @@
 }
 @keyframes linkRectAnimationAfter {
     0%, 30%, 100% {
-        y: 17;
         x: 4;
         width: 8px;
     }
@@ -137,7 +136,6 @@
         fill: #85FFDB;
     }
     70% {
-        y: 17;
         x: 4;
         width: 8px;
         animation-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
