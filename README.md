@@ -5,12 +5,12 @@
 </figure>
 
 <picture>
-    <source media="(prefers-color-scheme: light) and (min-width: 1000px)" type="image/svg+xml" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Light%20Full.svg">
-    <source media="(prefers-color-scheme: light) and (min-width: 800px)" type="image/svg+xml" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Light%20Medium.svg">
-    <source media="(prefers-color-scheme: light) and (max-width: 800px)" type="image/svg+xml" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Light%20Small.svg">
-    <source media="(prefers-color-scheme: dark) and (min-width: 1000px)" type="image/svg+xml" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Dark%20Full.svg">
-    <source media="(prefers-color-scheme: dark) and (min-width: 800px)" type="image/svg+xml" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Dark%20Medium.svg">
-    <source media="(prefers-color-scheme: dark) and (max-width: 800px)" type="image/svg+xml" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Dark%20Small.svg">
+    <source media="(prefers-color-scheme: light) and (min-width: 1200px)" type="image/svg+xml" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Light%20Full.svg">
+    <source media="(prefers-color-scheme: light) and (min-width: 900px)" type="image/svg+xml" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Light%20Medium.svg">
+    <source media="(prefers-color-scheme: light) and (min-width: 800px)" type="image/svg+xml" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Light%20Small.svg">
+    <source media="(prefers-color-scheme: dark) and (min-width: 1200px)" type="image/svg+xml" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Dark%20Full.svg">
+    <source media="(prefers-color-scheme: dark) and (min-width: 900px)" type="image/svg+xml" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Dark%20Medium.svg">
+    <source media="(prefers-color-scheme: dark) and (min-width: 800px)" type="image/svg+xml" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Dark%20Small.svg">
     <source media="(prefers-color-scheme: light)" type="image/svg+xml" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Light%20Full.svg">
     <source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Dark%20Full.svg">
     <img type="image/svg+xml" alt="Harole, a quirky hobbyist." src="./assets/illustrations/landing/Harole%20Landing%20Page%20Light%20Full.svg" width="100%" height="100%">
