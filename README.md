@@ -17,7 +17,11 @@
 </picture>
 
 <p align="center">
-    <img aria-hidden src="./assets/illustrations/No%20Image%20Blurry.svg" height="16">
+    <picture>
+        <source media="(any-pointer: fine)" type="image/svg+xml" srcset="./assets/illustrations/No%20Image.svg">
+        <source media="(any-pointer: coarse)" type="image/svg+xml" srcset="./assets/quick%20links/Frag%20Empty.png">
+        <img aria-hidden src="./assets/quick%20links/Frag%20Empty.png" height="16">
+    </picture>
 </p>
 
 <h1 id="brief_introduction">
