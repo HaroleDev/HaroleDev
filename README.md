@@ -16,9 +16,11 @@
     <img type="image/svg+xml" alt="Harole, a quirky hobbyist." src="./assets/illustrations/landing/Harole%20Landing%20Page%20Light%20Full.svg" width="100%" height="100%">
 </picture>
 
-<picture>
-    <img aria-hidden src="./assets/quick%20links/Frag%20Empty.png" height="8">
-</picture>
+<p align="center">
+    <picture>
+        <img aria-hidden src="./assets/illustrations/No%20Image.svg" height="16">
+    </picture>
+</p>
 
 <h1 id="brief_introduction">
     <a href="#user-content-brief_introduction">
