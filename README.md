@@ -17,9 +17,7 @@
 </picture>
 
 <p align="center">
-    <picture>
-        <img aria-hidden src="./assets/illustrations/No%20Image%20Blurry.svg" height="16">
-    </picture>
+    <img aria-hidden src="./assets/illustrations/No%20Image%20Blurry.svg" height="16">
 </p>
 
 <h1 id="brief_introduction">
