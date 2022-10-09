@@ -45,5 +45,5 @@ Aside from that, I’m a student studying at an international American school in
 
 <figure title="Harole's Signature">
     <img draggable="false" alt="Harole's Signature" type="image/svg+xml" title="Harole's Signature" width="200" src="./assets/illustrations/Harole's%20Signature.svg">
-    <figcaption>- <b>Harole</b></figcaption>
+    <p>- <b>Harole</b></p>
 </figure>
