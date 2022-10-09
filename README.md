@@ -18,7 +18,7 @@
 
 <p align="center">
     <picture>
-        <img aria-hidden src="./assets/illustrations/No%20Image.svg" height="16">
+        <img aria-hidden src="./assets/illustrations/No%20Image%20Blurry.svg" height="16">
     </picture>
 </p>
 
