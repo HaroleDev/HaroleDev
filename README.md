@@ -66,7 +66,7 @@
     <a href="#user-content-brief_introduction">
         <picture>
             <source media="(prefers-color-scheme: light)" srcset="./assets/headers/BI%20Heading.svg">
-            <source media="(prefers-color-scheme: dark)"srcset="./assets/headers/BI%20Heading%20Dark.svg">
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/headers/BI%20Heading%20Dark.svg">
             <img alt="Brief Introduction" title="Brief Introduction" type="image/svg+xml" height="42" src="./assets/headers/BI%20Heading.svg">
         </picture>
     </a>
