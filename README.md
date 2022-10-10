@@ -32,12 +32,12 @@
 
 <picture>
     <!--- Forced colors --->
-    <source media="(forced-colors: active) and (prefers-color-scheme: light) and (min-width: 1200px)" srcset="./assets/illustrations/landing/high%20contrast/forced%20colors/Harole%20Landing%20Page%20Light%20Full.svg">
-    <source media="(forced-colors: active) and (prefers-color-scheme: light) and (min-width: 800px)" srcset="./assets/illustrations/landing/high%20contrast/forced%20colors/Harole%20Landing%20Page%20Light%20Medium.svg">
-    <source media="(forced-colors: active) and (prefers-color-scheme: light) and (max-width: 800px)" srcset="./assets/illustrations/landing/high%20contrast/forced%20colors/Harole%20Landing%20Page%20Light%20Medium.svg">
-    <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (min-width: 1200px)" srcset="./assets/illustrations/landing/high%20contrast/forced%20colors/Harole%20Landing%20Page%20Dark%20Full.svg">
-    <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (min-width: 800px)" srcset="./assets/illustrations/landing/high%20contrast/forced%20colors/Harole%20Landing%20Page%20Dark%20Medium.svg">
-    <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (max-width: 800px)" srcset="./assets/illustrations/landing/high%20contrast/forced%20colors/Harole%20Landing%20Page%20Dark%20Small.svg">
+    <source media="(forced-colors: active) and (prefers-color-scheme: light) and (min-width: 1200px)" srcset="./assets/illustrations/landing/high%20contrast/forced%20colors/Harole%20Landing%20Page%20Light%20High%20Contrast%20Full.svg">
+    <source media="(forced-colors: active) and (prefers-color-scheme: light) and (min-width: 800px)" srcset="./assets/illustrations/landing/high%20contrast/forced%20colors/Harole%20Landing%20Page%20Light%20High%20Contrast%20Medium.svg">
+    <source media="(forced-colors: active) and (prefers-color-scheme: light) and (max-width: 800px)" srcset="./assets/illustrations/landing/high%20contrast/forced%20colors/Harole%20Landing%20Page%20Light%20High%20Contrast%20Medium.svg">
+    <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (min-width: 1200px)" srcset="./assets/illustrations/landing/high%20contrast/forced%20colors/Harole%20Landing%20Page%20Dark%20High%20Contrast%20Full.svg">
+    <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (min-width: 800px)" srcset="./assets/illustrations/landing/high%20contrast/forced%20colors/Harole%20Landing%20Page%20Dark%20High%20Contrast%20Medium.svg">
+    <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (max-width: 800px)" srcset="./assets/illustrations/landing/high%20contrast/forced%20colors/Harole%20Landing%20Page%20Dark%20High%20Contrast%20Small.svg">
     <!--- Main --->
     <source media="(prefers-color-scheme: light) and (min-width: 1200px)" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Light%20Full.svg">
     <source media="(prefers-color-scheme: light) and (min-width: 800px)" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Light%20Medium.svg">
