@@ -44,9 +44,9 @@
 </picture>
 
 <p>
-Hello! I’m nicknamed Harole Duong (also called Harole Ethan, or Harole for short), and I describe myself as a quirky hobbyist. I've been self-taught as a visual designer, illustrator, and programmer since I was an adolescent, and now I've taught myself other hobbies since then.
-<br><br>
-Aside from that, I’m a student studying at an international American school in Southern Vietnam.
+    Hello! I’m nicknamed Harole Duong (also called Harole Ethan, or Harole for short), and I describe myself as a quirky hobbyist. I've been self-taught as a visual designer, illustrator, and programmer since I was an adolescent, and now I've taught myself other hobbies since then.
+    <br><br>
+    Aside from that, I’m a student studying at an international American school in Southern Vietnam.
 </p>
 
 ---
