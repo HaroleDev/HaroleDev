@@ -65,6 +65,7 @@
 <h1 id="brief_introduction">
     <a href="#user-content-brief_introduction">
         <picture>
+            <source media="(forced-colors: active) and (prefers-color-scheme: light), (forced-colors: active) and (prefers-color-scheme: dark)" srcset="./assets/headers/BI%20Heading%20High%20Contrast.svg">
             <source media="(prefers-color-scheme: light)" srcset="./assets/headers/BI%20Heading.svg">
             <source media="(prefers-color-scheme: dark)" srcset="./assets/headers/BI%20Heading%20Dark.svg">
             <img alt="Brief Introduction" title="Brief Introduction" type="image/svg+xml" height="42" src="./assets/headers/BI%20Heading.svg">
