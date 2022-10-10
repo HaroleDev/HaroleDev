@@ -2,6 +2,7 @@
     <p align="center">
         <a href="#user-content-quick_links">
             <picture>
+                <source media="(forced-colors: active)" srcset="./assets/quick%20links/Frag%201%20High%20Contrast.svg">
                 <source media="(prefers-color-scheme: light)" srcset="./assets/quick%20links/Frag%201%20Light.svg">
                 <source media="(prefers-color-scheme: dark)" srcset="./assets/quick%20links/Frag%201%20Dark.svg">
                 <img draggable="false" type="image/svg+xml" alt="Quick Links" src="./assets/quick%20links/Frag%201%20Light.svg" width="auto" height="64" draggable="false">
@@ -12,6 +13,7 @@
         </picture>
         <a href="https://preview.studio.site/live/4BqN8BM2Wr">
             <picture>
+                <source media="(forced-colors: active)" srcset="./assets/quick%20links/Frag%202%20High%20Contrast.svg">
                 <source media="(prefers-color-scheme: light)" srcset="./assets/quick%20links/Frag%202%20Light.svg">
                 <source media="(prefers-color-scheme: dark)" srcset="./assets/quick%20links/Frag%202%20Dark.svg">
                 <img draggable="false" type="image/svg+xml" alt="Personal Website" src="./assets/quick%20links/Frag%202%20Light.svg" width="auto" height="64">
@@ -22,6 +24,7 @@
         </picture>
         <a href="mailto:teraos@proton.me">
             <picture>
+                <source media="(forced-colors: active)" srcset="./assets/quick%20links/Frag%203%20High%20Contrast.svg">
                 <source media="(prefers-color-scheme: light)" type="image/svg+xml" srcset="./assets/quick%20links/Frag%203%20Light.svg">
                 <source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="./assets/quick%20links/Frag%203%20Dark.svg">
                 <img draggable="false" type="image/svg+xml" alt="Email" src="./assets/quick%20links/Frag%203%20Light.svg" width="auto" height="64">
