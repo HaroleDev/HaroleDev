@@ -52,7 +52,6 @@
     <source media="(min-width: 800px)" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Light%20Medium.svg">
     <source media="(max-width: 800px)" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Light%20Small.svg">
     <img type="image/svg+xml" alt="Harole, a quirky hobbyist." src="./assets/illustrations/landing/Harole%20Landing%20Page%20Light%20Full.svg" width="100%" height="100%">
-
 </picture>
 
 <p align="center">
