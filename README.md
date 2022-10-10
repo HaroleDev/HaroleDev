@@ -82,6 +82,10 @@
     <img align="right" type="image/svg+xml" src="./assets/illustrations/Harole%20Working%20on%20Laptop.svg" width="150" alt="Harole working on his laptop">
 </picture>
 
+<picture>
+    <img alt="My pronouns are he/him." src="./assets/other%20info/Pronouns%20Pill%20He.svg">
+</picture>
+
 <p>
     Hello! I’m nicknamed Harole Duong (also called Harole Ethan, or Harole for short), and I describe myself as a quirky hobbyist. I've been self-taught as a visual designer, illustrator, and programmer since I was an adolescent, and now I've taught myself other hobbies since then.
     <br><br>
