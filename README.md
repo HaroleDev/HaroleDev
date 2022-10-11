@@ -1,5 +1,8 @@
 <nav id="quick_links">
     <p align="center">
+        <picture>
+            <img draggable="false" aria-hidden type="image/png" src="./assets/quick%20links/Frag%20Empty.png" width="8">
+        </picture>
         <a href="#user-content-quick_links">
             <picture>
                 <source media="(forced-colors: active)" srcset="./assets/quick%20links/Frag%201%20High%20Contrast.svg">
@@ -30,6 +33,9 @@
                 <img draggable="false" type="image/svg+xml" alt="Email" src="./assets/quick%20links/Frag%203%20Light.svg" width="auto" height="64">
             </picture>
         </a>
+        <picture>
+            <img draggable="false" aria-hidden type="image/png" src="./assets/quick%20links/Frag%20Empty.png" width="8">
+        </picture>
     </p>
 </nav>
 
