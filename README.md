@@ -109,7 +109,9 @@
             <source media="(max-width: 800px)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Small.png">
             <img type="image/png" alt="Playful Video Player Illustration with a boundless frame" src="./assets/illustrations/projects/Playful%20VP%20Boundless.png">
         </picture>
-        <h3 align="center"><b>Playful Video Player</b></h3>
+    </a>
+    <a href="https://github.com/HaroleDev/haroleethan-iframes/tree/main/Web%20Player%20Snippet" align="center">
+        <h3><b>Playful Video Player</b></h3>
     </a>
 </figure>
 
