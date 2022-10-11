@@ -89,7 +89,6 @@
 </p>
 
 <picture>
-    <source media="(max-width: 400px)" srcset="./assets/other%20info/Pronouns%20Pill%20He.svg" width="200">
     <img alt="My pronouns are he/him." src="./assets/other%20info/Pronouns%20Pill%20He.svg">
 </picture>
 
