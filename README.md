@@ -110,9 +110,10 @@
             <img type="image/png" alt="Playful Video Player Illustration with a boundless frame" src="./assets/illustrations/projects/Playful%20VP%20Boundless.png">
         </picture>
     </a>
-    <a href="https://github.com/HaroleDev/haroleethan-iframes/tree/main/Web%20Player%20Snippet" align="center">
-        <h3>Playful Video Player</h3>
-    </a>
+    <h3 align="center">
+        <a href="https://github.com/HaroleDev/haroleethan-iframes/tree/main/Web%20Player%20Snippet">Playful Video Player
+        </a>
+    </h3>
 </figure>
 
 ---
