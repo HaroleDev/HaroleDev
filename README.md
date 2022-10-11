@@ -69,9 +69,9 @@
     <a href="#user-content-brief_introduction">
         <picture>
             <source media="(forced-colors: active) and (prefers-color-scheme: light), (forced-colors: active) and (prefers-color-scheme: dark)" srcset="./assets/headers/BI%20Heading%20High%20Contrast.svg">
-            <source media="(prefers-color-scheme: light)" srcset="./assets/headers/BI%20Heading.svg">
+            <source media="(prefers-color-scheme: light)" srcset="./assets/headers/BI%20Heading%20Light.svg">
             <source media="(prefers-color-scheme: dark)" srcset="./assets/headers/BI%20Heading%20Dark.svg">
-            <img alt="Brief Introduction" title="Brief Introduction" type="image/svg+xml" height="42" src="./assets/headers/BI%20Heading.svg">
+            <img alt="Brief Introduction" title="Brief Introduction" type="image/svg+xml" height="42" src="./assets/headers/BI%20Heading%20Light.svg">
         </picture>
     </a>
 </h1>
@@ -91,6 +91,27 @@
 <picture>
     <img alt="My pronouns are he/him." src="./assets/other%20info/Pronouns%20Pill%20He.svg">
 </picture>
+
+<h1 id="currently_working_on">
+    <a href="#user-content-currently_working_on">
+        <picture>
+            <source media="(forced-colors: active) and (prefers-color-scheme: light), (forced-colors: active) and (prefers-color-scheme: dark)" srcset="./assets/headers/CWO%20Heading%20High%20Contrast.svg">
+            <source media="(prefers-color-scheme: light)" srcset="./assets/headers/CWO%20Heading%20Light.svg">
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/headers/CWO%20Heading%20Dark.svg">
+            <img alt="Brief Introduction" title="Currently working on..." type="image/svg+xml" height="42" src="./assets/headers/CWO%20Heading%20Light.svg">
+        </picture>
+    </a>
+</h1>
+
+<figure>
+    <a href="https://github.com/HaroleDev/haroleethan-iframes/tree/main/Web%20Player%20Snippet" align="center">
+        <picture>
+            <source media="(max-width: 800px)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Small.svg">
+            <img alt="Playful Video Player Illustration with a boundless frame" src="./assets/illustrations/projects/Playful%20VP%20Boundless.svg">
+        </picture>
+        <h3 align="center"><b>Playful Video Player</b></h3>
+    </a>
+</figure>
 
 ---
 
