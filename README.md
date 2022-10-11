@@ -106,7 +106,7 @@
 <figure>
     <a href="https://github.com/HaroleDev/haroleethan-iframes/tree/main/Web%20Player%20Snippet" align="center">
         <picture>
-            <source media="(max-width: 800px)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Small.png">
+            <source media="(max-width: 900px)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Small.png">
             <img type="image/png" alt="Playful Video Player Illustration with a boundless frame" src="./assets/illustrations/projects/Playful%20VP%20Boundless.png">
         </picture>
     </a>
@@ -118,6 +118,7 @@
 ---
 
 <figure title="Harole's Signature">
+    <p>Cheers,</p>
     <img alt="Harole's Signature" type="image/svg+xml" title="Harole's Signature" width="200" src="./assets/illustrations/Harole's%20Signature.svg">
     <p>- <b>Harole</b></p>
 </figure>
