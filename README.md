@@ -113,9 +113,7 @@
     <h3 align="center">
         <a href="https://github.com/HaroleDev/haroleethan-iframes/tree/main/Web%20Player%20Snippet">Playful Video Player</a>
     </h3>
-    <p align="center">
-        <figcaption align="center">An HTML5-based video player.</figcaption>
-    </p>
+    <p align="center">An HTML5-based video player.</p>
 </figure>
 
 ---
