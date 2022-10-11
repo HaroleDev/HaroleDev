@@ -111,7 +111,7 @@
         </picture>
     </a>
     <a href="https://github.com/HaroleDev/haroleethan-iframes/tree/main/Web%20Player%20Snippet" align="center">
-        <h3><b>Playful Video Player</b></h3>
+        <h3>Playful Video Player</h3>
     </a>
 </figure>
 
