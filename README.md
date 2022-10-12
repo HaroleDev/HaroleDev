@@ -47,14 +47,14 @@
     <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (min-width: 1200px)" srcset="./assets/illustrations/landing/high%20contrast/forced%20colors/Harole%20Landing%20Page%20Dark%20High%20Contrast%20Full.svg">
     <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (min-width: 800px)" srcset="./assets/illustrations/landing/high%20contrast/forced%20colors/Harole%20Landing%20Page%20Dark%20High%20Contrast%20Medium.svg">
     <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (max-width: 800px)" srcset="./assets/illustrations/landing/high%20contrast/forced%20colors/Harole%20Landing%20Page%20Dark%20High%20Contrast%20Small.svg">
-    <!--- Main --->
+    <!--- Main queries --->
     <source media="(prefers-color-scheme: light) and (min-width: 1200px)" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Light%20Full.svg">
     <source media="(prefers-color-scheme: light) and (min-width: 800px)" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Light%20Medium.svg">
     <source media="(prefers-color-scheme: light) and (max-width: 800px)" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Light%20Small.svg">
     <source media="(prefers-color-scheme: dark) and (min-width: 1200px)" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Dark%20Full.svg">
     <source media="(prefers-color-scheme: dark) and (min-width: 800px)" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Dark%20Medium.svg">
     <source media="(prefers-color-scheme: dark) and (max-width: 800px)" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Dark%20Small.svg">
-    <!--- Fallbacks --->
+    <!--- Fallback queries --->
     <source media="(prefers-color-scheme: light)" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Light%20Full.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Dark%20Full.svg">
     <source media="(min-width: 1200px)" srcset="./assets/illustrations/landing/Harole%20Landing%20Page%20Light%20Full.svg">
@@ -112,8 +112,17 @@
 <figure>
     <a href="https://github.com/HaroleDev/haroleethan-iframes/tree/main/Web%20Player%20Snippet" align="center">
         <picture>
-            <source media="(max-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Small.png">
-            <img type="image/png" alt="Playful Video Player Illustration with a boundless frame" src="./assets/illustrations/projects/Playful%20VP%20Boundless.png">
+            <!--- Main queries --->
+            <source media="(prefers-color-scheme: light) and (min-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Light.png">
+            <source media="(prefers-color-scheme: dark) and (min-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Dark.png">
+            <source media="(prefers-color-scheme: light) and (max-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Small%20Light.png">
+            <source media="(prefers-color-scheme: dark) and (max-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Small%20Dark.png">
+            <!--- Fallback queries --->
+            <source media="(min-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Light.png">
+            <source media="(max-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Small%20Light.png">
+            <source media="(prefers-color-scheme: light)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Light.png">
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Dark.png">
+            <img type="image/png" alt="Playful Video Player Illustration with a boundless frame" src="./assets/illustrations/projects/Playful%20VP%20Boundless%20Light.png">
         </picture>
     </a>
     <h3 align="center">
