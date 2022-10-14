@@ -135,6 +135,28 @@
     <p align="center">An HTML5-based video player.</p>
 </figure>
 
+<h1 id="socials">
+    <a href="#user-content-socials">
+        <picture>
+            <source media="(forced-colors: active) and (prefers-color-scheme: light), (forced-colors: active) and (prefers-color-scheme: dark)" srcset="./assets/headers/Socials%20Heading%20High%20Contrast.svg">
+            <source media="(prefers-color-scheme: light)" srcset="./assets/headers/Socials%20Heading%20Light.svg">
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/headers/Socials%20Heading%20Dark.svg">
+            <img alt="Brief Introduction" title="Currently working on..." type="image/svg+xml" height="42" src="./assets/headers/Socials%20Heading%20Light.svg">
+        </picture>
+    </a>
+</h1>
+
+<p>
+    <a href="https://twitter.com/thatharole?ref_src=twsrc%5Etfw">
+        <picture>
+            <source media="(forced-colors: active)" srcset="./assets/quick%20links/socials/Follow%20Button%20High%20Contrast.svg">
+            <source media="(prefers-color-scheme: light)" srcset="./assets/quick%20links/socials/Follow%20Button%20Light.svg">
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/quick%20links/socials/Follow%20Button%20Dark.svg">
+            <img type="image/svg+xml" alt="Follow @thatharole" src="./assets/quick%20links/socials/Follow%20Button%20Light.svg">
+        </picture>
+    </a>
+</p>
+
 ---
 
 <figure title="Harole's Signature">

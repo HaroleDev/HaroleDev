@@ -1,4 +1,4 @@
-<svg width="350" height="42" fill="none" viewBox="0 0 350 42" xmlns="http://www.w3.org/2000/svg" aria-labelledby="head" role="heading" aria-level="2">
+<svg width="150" height="42" fill="none" viewBox="0 0 150 42" xmlns="http://www.w3.org/2000/svg" aria-labelledby="head" role="heading" aria-level="2">
 <defs>
 <linearGradient id="gradient1">
 <stop offset="0" stop-color="white" stop-opacity="0" />
@@ -12,7 +12,7 @@
 </defs>
 <g class="link-con" mask="url(#gradient-mask)">
 <g class="blend">
-<text fill="#FFF" class="font" xml:space="preserve" style="white-space: pre;" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="32" font-weight="800" letter-spacing="-0.04em" id="text"><tspan x="16" y="33.256" id="head">Currently working on...</tspan></text>
+<text fill="#000" class="font" xml:space="preserve" style="white-space: pre;" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="32" font-weight="800" letter-spacing="-0.04em" id="text"><tspan x="16" y="33.256" id="head">Socials</tspan></text>
 </g>
 <rect x="4" y="17" width="8" height="8" rx="10" fill="#00A877" id="link"/>
 </g>
@@ -77,7 +77,7 @@
 #link {
     rx: 0;
     clip-path: inset(0% 0% 0% 0% round 20px);
-    animation: linkRectAnimation 1.5s 900ms cubic-bezier(0.19, 1, 0.22, 1), 4.5s linkRectAnimationAfter 4.5s cubic-bezier(0.19, 1, 0.22, 1) infinite;
+    animation: linkRectAnimation 1.5s 1200ms cubic-bezier(0.19, 1, 0.22, 1), 6s linkRectAnimationAfter 6s cubic-bezier(0.19, 1, 0.22, 1) infinite;
 }
 @media (prefers-reduced-motion: reduce) {
     #link {
@@ -100,13 +100,13 @@
         height: 8px;
     }
     30.0001% {
-        fill: #85FFDB;
+        fill: #02DA9A;
         transform: translateX(100%) translateY(-2px);
         width: 100%;
         height: 20px;
     }
     60% {
-        fill: #85FFDB;
+        fill: #02DA9A;
         transform: translateX(-50%);
         width: 50%;
         height: 12px;
@@ -129,7 +129,7 @@
     50.0001% {
         transform: translateY(-150%);
         height: 100%;
-        fill: #85FFDB;
+        fill: #02DA9A;
     }
     50.1% {
         animation-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
