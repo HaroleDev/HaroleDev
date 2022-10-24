@@ -125,7 +125,7 @@
                 <source media="(max-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Light%20Small.png">
                 <source media="(prefers-color-scheme: light)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Light.png">
                 <source media="(prefers-color-scheme: dark)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Dark.png">
-                <img type="image/png" alt="Playful Video Player Illustration with a boundless frame" src="./assets/illustrations/projects/Playful%20VP%20Boundless%20Light.png" width="900">
+                <img type="image/png" alt="Playful Video Player Illustration with a boundless frame" src="./assets/illustrations/projects/Playful%20VP%20Boundless%20Light.png" height="600">
             </picture>
         </a>
     </p>
@@ -133,6 +133,22 @@
         <a href="https://github.com/HaroleDev/haroleethan-iframes/tree/main/Web%20Player%20Snippet">Playful Video Player</a>
     </h3>
     <p align="center">An HTML5-based video player.</p>
+</figure>
+
+<figure>
+    <p align="center">
+        <a href="https://github.com/HaroleDev/Airycons">
+            <picture>
+                <source media="(prefers-color-scheme: light)" srcset="./assets/illustrations/projects/Airycons%20Boundless%20Light.png">
+                <source media="(prefers-color-scheme: dark)" srcset="./assets/illustrations/projects/Airycons%20Boundless%20Dark.png">
+                <img type="image/png" alt="Airycons table of icons with a boundless frame" src="./assets/illustrations/projects/Airycons%20Boundless%20Light.png" height="600">
+            </picture>
+        </a>
+    </p>
+    <h3 align="center">
+        <a href="https://github.com/HaroleDevAirycons">Airycons</a>
+    </h3>
+    <p align="center">A weather icon pack for everyone.</p>
 </figure>
 
 <h1 id="socials">
