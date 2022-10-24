@@ -139,9 +139,9 @@
     <p align="center">
         <a href="https://github.com/HaroleDev/Airycons">
             <picture>
-                <source media="(prefers-color-scheme: light)" srcset="./assets/illustrations/projects/Airycons%20Boundless%20Light.png">
-                <source media="(prefers-color-scheme: dark)" srcset="./assets/illustrations/projects/Airycons%20Boundless%20Dark.png">
-                <img type="image/png" alt="Airycons table of icons with a boundless frame" src="./assets/illustrations/projects/Airycons%20Boundless%20Light.png" height="600">
+                <source media="(prefers-color-scheme: light)" srcset="./assets/illustrations/projects/Airycons%20Boundless%20Light%20Small.png">
+                <source media="(prefers-color-scheme: dark)" srcset="./assets/illustrations/projects/Airycons%20Boundless%20Dark%20Small.png">
+                <img type="image/png" alt="Airycons table of icons with a boundless frame" src="./assets/illustrations/projects/Airycons%20Boundless%20Light%20Small.png">
             </picture>
         </a>
     </p>
