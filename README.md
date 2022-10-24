@@ -116,16 +116,16 @@
         <a href="https://github.com/HaroleDev/haroleethan-iframes/tree/main/Web%20Player%20Snippet">
             <picture>
                 <!--- Main queries --->
-                <source media="(prefers-color-scheme: light) and (min-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Light.png">
-                <source media="(prefers-color-scheme: dark) and (min-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Dark.png">
-                <source media="(prefers-color-scheme: light) and (max-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Light%20Small.png">
-                <source media="(prefers-color-scheme: dark) and (max-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Dark%20Small.png">
+                <source media="(prefers-color-scheme: light) and (min-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP/Playful%20VP%20Boundless%20Light.png">
+                <source media="(prefers-color-scheme: dark) and (min-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP/Playful%20VP%20Boundless%20Dark.png">
+                <source media="(prefers-color-scheme: light) and (max-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP/Playful%20VP%20Boundless%20Light%20Small.png">
+                <source media="(prefers-color-scheme: dark) and (max-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP/Playful%20VP%20Boundless%20Dark%20Small.png">
                 <!--- Fallback queries --->
-                <source media="(min-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Light.png">
-                <source media="(max-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Light%20Small.png">
-                <source media="(prefers-color-scheme: light)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Light.png">
-                <source media="(prefers-color-scheme: dark)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Dark.png">
-                <img type="image/png" alt="Playful Video Player Illustration with a boundless frame" src="./assets/illustrations/projects/Playful%20VP%20Boundless%20Light.png">
+                <source media="(min-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP/Playful%20VP%20Boundless%20Light.png">
+                <source media="(max-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP/Playful%20VP%20Boundless%20Light%20Small.png">
+                <source media="(prefers-color-scheme: light)" srcset="./assets/illustrations/projects/Playful%20VP/Playful%20VP%20Boundless%20Light.png">
+                <source media="(prefers-color-scheme: dark)" srcset="./assets/illustrations/projects/Playful%20VP/Playful%20VP%20Boundless%20Dark.png">
+                <img type="image/png" alt="Playful Video Player Illustration with a boundless frame" src="./assets/illustrations/projects/Playful%20VP/Playful%20VP%20Boundless%20Light.png">
             </picture>
         </a>
     </p>
@@ -140,16 +140,16 @@
         <a href="https://github.com/HaroleDev/Airycons">
             <picture>
                 <!--- Main queries --->
-                <source media="(prefers-color-scheme: light) and (min-width: 1000px)" srcset="./assets/illustrations/projects/Airycons%20Boundless%20Light.png">
-                <source media="(prefers-color-scheme: dark) and (min-width: 1000px)" srcset="./assets/illustrations/projects/Airycons%20Boundless%20Dark.png">
-                <source media="(prefers-color-scheme: light) and (max-width: 1000px)" srcset="./assets/illustrations/projects/Airycons%20Boundless%20Light%20Small.png">
-                <source media="(prefers-color-scheme: dark) and (max-width: 1000px)" srcset="./assets/illustrations/projects/Airycons%20Boundless%20Dark%20Small.png">
+                <source media="(prefers-color-scheme: light) and (min-width: 1000px)" srcset="./assets/illustrations/projects/Airycons/Airycons%20Boundless%20Light.png">
+                <source media="(prefers-color-scheme: dark) and (min-width: 1000px)" srcset="./assets/illustrations/projects/Airycons/Airycons%20Boundless%20Dark.png">
+                <source media="(prefers-color-scheme: light) and (max-width: 1000px)" srcset="./assets/illustrations/projects/Airycons/Airycons%20Boundless%20Light%20Small.png">
+                <source media="(prefers-color-scheme: dark) and (max-width: 1000px)" srcset="./assets/illustrations/projects/Airycons/Airycons%20Boundless%20Dark%20Small.png">
                 <!--- Fallback queries --->
-                <source media="(min-width: 1000px)" srcset="./assets/illustrations/projects/Airycons%20Boundless%20Light.png">
-                <source media="(max-width: 1000px)" srcset="./assets/illustrations/projects/Airycons%20Boundless%20Light%20Small.png">
-                <source media="(prefers-color-scheme: light)" srcset="./assets/illustrations/projects/Airycons%20Boundless%20Light.png">
-                <source media="(prefers-color-scheme: dark)" srcset="./assets/illustrations/projects/Airycons%20Boundless%20Dark.png">
-                <img type="image/png" alt="Airycons table of icons with a boundless frame" src="./assets/illustrations/projects/Airycons%20Boundless%20Light.png">
+                <source media="(min-width: 1000px)" srcset="./assets/illustrations/projects/Airycons/Airycons%20Boundless%20Light.png">
+                <source media="(max-width: 1000px)" srcset="./assets/illustrations/projects/Airycons/Airycons%20Boundless%20Light%20Small.png">
+                <source media="(prefers-color-scheme: light)" srcset="./assets/illustrations/projects/Airycons/Airycons%20Boundless%20Light.png">
+                <source media="(prefers-color-scheme: dark)" srcset="./assets/illustrations/projects/Airycons/Airycons%20Boundless%20Dark.png">
+                <img type="image/png" alt="Airycons table of icons with a boundless frame" src="./assets/illustrations/projects/Airycons/Airycons%20Boundless%20Light.png">
             </picture>
         </a>
     </p>
