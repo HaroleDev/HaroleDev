@@ -154,7 +154,7 @@
         </a>
     </p>
     <h3 align="center">
-        <a href="https://github.com/HaroleDevAirycons">Airycons</a>
+        <a href="https://github.com/HaroleDev/Airycons">Airycons</a>
     </h3>
     <p align="center">A weather icon pack for everyone.</p>
 </figure>
