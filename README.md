@@ -142,8 +142,8 @@
                 <!--- Main queries --->
                 <source media="(prefers-color-scheme: light) and (min-width: 1000px)" srcset="./assets/illustrations/projects/Airycons%20Boundless%20Light.png">
                 <source media="(prefers-color-scheme: dark) and (min-width: 1000px)" srcset="./assets/illustrations/projects/Airycons%20Boundless%20Dark.png">
-                <source media="(prefers-color-scheme: light) and (max-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Light%20Small.png">
-                <source media="(prefers-color-scheme: dark) and (max-width: 1000px)" srcset="./assets/illustrations/projects/Playful%20VP%20Boundless%20Dark%20Small.png">
+                <source media="(prefers-color-scheme: light) and (max-width: 1000px)" srcset="./assets/illustrations/projects/Airycons%20Boundless%20Light%20Small.png">
+                <source media="(prefers-color-scheme: dark) and (max-width: 1000px)" srcset="./assets/illustrations/projects/Airycons%20Boundless%20Dark%20Small.png">
                 <!--- Fallback queries --->
                 <source media="(min-width: 1000px)" srcset="./assets/illustrations/projects/Airycons%20Boundless%20Light.png">
                 <source media="(max-width: 1000px)" srcset="./assets/illustrations/projects/Airycons%20Boundless%20Light%20Small.png">
