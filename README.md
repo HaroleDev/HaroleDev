@@ -5,7 +5,7 @@
         </picture>
         <a href="#user-content-quick_links">
             <picture>
-                <source media="(forced-colors: active)" srcset="./assets/quick%20links/Frag%201%20High%20Contrast.svg">
+                <source media="(forced-colors: active)" srcset="./assets/quick%20links/Frag%201%20Forced%Colors.svg">
                 <source media="(prefers-color-scheme: light)" srcset="./assets/quick%20links/Frag%201%20Light.svg">
                 <source media="(prefers-color-scheme: dark)" srcset="./assets/quick%20links/Frag%201%20Dark.svg">
                 <img draggable="false" type="image/svg+xml" alt="Quick Links" src="./assets/quick%20links/Frag%201%20Light.svg" width="auto" height="64" draggable="false">
@@ -16,7 +16,7 @@
         </picture>
         <a href="https://preview.studio.site/live/4BqN8BM2Wr">
             <picture>
-                <source media="(forced-colors: active)" srcset="./assets/quick%20links/Frag%202%20High%20Contrast.svg">
+                <source media="(forced-colors: active)" srcset="./assets/quick%20links/Frag%202%20Forced%Colors.svg">
                 <source media="(prefers-color-scheme: light)" srcset="./assets/quick%20links/Frag%202%20Light.svg">
                 <source media="(prefers-color-scheme: dark)" srcset="./assets/quick%20links/Frag%202%20Dark.svg">
                 <img draggable="false" type="image/svg+xml" alt="Personal Website" src="./assets/quick%20links/Frag%202%20Light.svg" width="auto" height="64">
@@ -27,7 +27,7 @@
         </picture>
         <a href="mailto:teraos@proton.me">
             <picture>
-                <source media="(forced-colors: active)" srcset="./assets/quick%20links/Frag%203%20High%20Contrast.svg">
+                <source media="(forced-colors: active)" srcset="./assets/quick%20links/Frag%203%20Forced%Colors.svg">
                 <source media="(prefers-color-scheme: light)" type="image/svg+xml" srcset="./assets/quick%20links/Frag%203%20Light.svg">
                 <source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="./assets/quick%20links/Frag%203%20Dark.svg">
                 <img draggable="false" type="image/svg+xml" alt="Email" src="./assets/quick%20links/Frag%203%20Light.svg" width="auto" height="64">
@@ -42,12 +42,12 @@
 <p align="center">
     <picture>
         <!--- Forced colors --->
-        <source media="(forced-colors: active) and (prefers-color-scheme: light) and (min-width: 1200px)" srcset="./assets/illustrations/landing/boy/forced%20colors/Harole%20Landing%20Page%20Light%20High%20Contrast%20Full.svg">
-        <source media="(forced-colors: active) and (prefers-color-scheme: light) and (min-width: 800px)" srcset="./assets/illustrations/landing/boy/forced%20colors/Harole%20Landing%20Page%20Light%20High%20Contrast%20Medium.svg">
-        <source media="(forced-colors: active) and (prefers-color-scheme: light) and (max-width: 800px)" srcset="./assets/illustrations/landing/boy/forced%20colors/Harole%20Landing%20Page%20Light%20High%20Contrast%20Medium.svg">
-        <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (min-width: 1200px)" srcset="./assets/illustrations/landing/boy/forced%20colors/Harole%20Landing%20Page%20Dark%20High%20Contrast%20Full.svg">
-        <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (min-width: 800px)" srcset="./assets/illustrations/landing/boy/forced%20colors/Harole%20Landing%20Page%20Dark%20High%20Contrast%20Medium.svg">
-        <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (max-width: 800px)" srcset="./assets/illustrations/landing/boy/forced%20colors/Harole%20Landing%20Page%20Dark%20High%20Contrast%20Small.svg">
+        <source media="(forced-colors: active) and (prefers-color-scheme: light) and (min-width: 1200px)" srcset="./assets/illustrations/landing/boy/forced%20colors/Harole%20Landing%20Page%20Light%20Forced%Colors%20Full.svg">
+        <source media="(forced-colors: active) and (prefers-color-scheme: light) and (min-width: 800px)" srcset="./assets/illustrations/landing/boy/forced%20colors/Harole%20Landing%20Page%20Light%20Forced%Colors%20Medium.svg">
+        <source media="(forced-colors: active) and (prefers-color-scheme: light) and (max-width: 800px)" srcset="./assets/illustrations/landing/boy/forced%20colors/Harole%20Landing%20Page%20Light%20Forced%Colors%20Medium.svg">
+        <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (min-width: 1200px)" srcset="./assets/illustrations/landing/boy/forced%20colors/Harole%20Landing%20Page%20Dark%20Forced%Colors%20Full.svg">
+        <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (min-width: 800px)" srcset="./assets/illustrations/landing/boy/forced%20colors/Harole%20Landing%20Page%20Dark%20Forced%Colors%20Medium.svg">
+        <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (max-width: 800px)" srcset="./assets/illustrations/landing/boy/forced%20colors/Harole%20Landing%20Page%20Dark%20Forced%Colors%20Small.svg">
         <!--- Main queries --->
         <source media="(prefers-color-scheme: light) and (min-width: 1200px)" srcset="./assets/illustrations/landing/boy/Harole%20Landing%20Page%20Light%20Full.svg">
         <source media="(prefers-color-scheme: light) and (min-width: 800px)" srcset="./assets/illustrations/landing/boy/Harole%20Landing%20Page%20Light%20Medium.svg">
@@ -76,7 +76,7 @@
 <h1 id="brief_introduction">
     <a href="#user-content-brief_introduction">
         <picture>
-            <source media="(forced-colors: active) and (prefers-color-scheme: light), (forced-colors: active) and (prefers-color-scheme: dark)" srcset="./assets/headers/BI%20Heading%20High%20Contrast.svg">
+            <source media="(forced-colors: active) and (prefers-color-scheme: light), (forced-colors: active) and (prefers-color-scheme: dark)" srcset="./assets/headers/BI%20Heading%20Forced%Colors.svg">
             <source media="(prefers-color-scheme: light)" srcset="./assets/headers/BI%20Heading%20Light.svg">
             <source media="(prefers-color-scheme: dark)" srcset="./assets/headers/BI%20Heading%20Dark.svg">
             <img alt="Brief Introduction" title="Brief Introduction" type="image/svg+xml" height="42" src="./assets/headers/BI%20Heading%20Light.svg">
@@ -103,7 +103,7 @@
 <h1 id="currently_working_on">
     <a href="#user-content-currently_working_on">
         <picture>
-            <source media="(forced-colors: active) and (prefers-color-scheme: light), (forced-colors: active) and (prefers-color-scheme: dark)" srcset="./assets/headers/CWO%20Heading%20High%20Contrast.svg">
+            <source media="(forced-colors: active) and (prefers-color-scheme: light), (forced-colors: active) and (prefers-color-scheme: dark)" srcset="./assets/headers/CWO%20Heading%20Forced%Colors.svg">
             <source media="(prefers-color-scheme: light)" srcset="./assets/headers/CWO%20Heading%20Light.svg">
             <source media="(prefers-color-scheme: dark)" srcset="./assets/headers/CWO%20Heading%20Dark.svg">
             <img alt="Brief Introduction" title="Currently working on..." type="image/svg+xml" height="42" src="./assets/headers/CWO%20Heading%20Light.svg">
@@ -162,7 +162,7 @@
 <h1 id="socials">
     <a href="#user-content-socials">
         <picture>
-            <source media="(forced-colors: active) and (prefers-color-scheme: light), (forced-colors: active) and (prefers-color-scheme: dark)" srcset="./assets/headers/Socials%20Heading%20High%20Contrast.svg">
+            <source media="(forced-colors: active) and (prefers-color-scheme: light), (forced-colors: active) and (prefers-color-scheme: dark)" srcset="./assets/headers/Socials%20Heading%20Forced%Colors.svg">
             <source media="(prefers-color-scheme: light)" srcset="./assets/headers/Socials%20Heading%20Light.svg">
             <source media="(prefers-color-scheme: dark)" srcset="./assets/headers/Socials%20Heading%20Dark.svg">
             <img alt="Brief Introduction" title="Currently working on..." type="image/svg+xml" height="42" src="./assets/headers/Socials%20Heading%20Light.svg">
@@ -173,7 +173,7 @@
 <p>
     <a href="https://twitter.com/thatharole?ref_src=twsrc%5Etfw">
         <picture>
-            <source media="(forced-colors: active)" srcset="./assets/quick%20links/socials/Follow%20Button%20High%20Contrast.svg">
+            <source media="(forced-colors: active)" srcset="./assets/quick%20links/socials/Follow%20Button%20Forced%Colors.svg">
             <source media="(prefers-color-scheme: light)" srcset="./assets/quick%20links/socials/Follow%20Button%20Light.svg">
             <source media="(prefers-color-scheme: dark)" srcset="./assets/quick%20links/socials/Follow%20Button%20Dark.svg">
             <img type="image/svg+xml" alt="Follow @thatharole" src="./assets/quick%20links/socials/Follow%20Button%20Light.svg">
