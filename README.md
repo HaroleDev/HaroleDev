@@ -58,8 +58,8 @@
         <!--- Fallback queries --->
         <source media="(prefers-color-scheme: light)" srcset="https://harole.npkn.net/harole-landing-illustration/10_90-normal-light-full">
         <source media="(prefers-color-scheme: dark)" srcset="https://harole.npkn.net/harole-landing-illustration/10_90-normal-dark-full">
-        <source media="(min-width: 1200px)" srcset="./assets/illustrations/landing/boy/Harole%20Landing%20Page%20Light%20Full.svg">
-        <source media="(min-width: 800px)" srcset="./assets/illustrations/landing/boy/Harole%20Landing%20Page%20Light%20Medium.svg">
+        <source media="(min-width: 1200px)" srcset="https://harole.npkn.net/harole-landing-illustration/10_90-normal-dark-full">
+        <source media="(min-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/10_90-normal-dark-medium">
         <source media="(max-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/10_90-normal-light-small">
         <img type="image/svg+xml" alt="Harole, a quirky hobbyist." src="https://harole.npkn.net/harole-landing-illustration/10_90-normal-light-full" width="900" height="100%" >
     </picture>
