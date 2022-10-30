@@ -42,25 +42,25 @@
 <p align="center">
     <picture>
         <!--- Forced colors --->
-        <source media="(forced-colors: active) and (prefers-color-scheme: light) and (min-width: 1200px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-forced_colors-light-full?">
-        <source media="(forced-colors: active) and (prefers-color-scheme: light) and (min-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-forced_colors-light-medium?">
-        <source media="(forced-colors: active) and (prefers-color-scheme: light) and (max-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-forced_colors-light-small?">
-        <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (min-width: 1200px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-forced_colors-dark-full?">
-        <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (min-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-forced_colors-dark-medium?">
-        <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (max-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-forced_colors-dark-small?">
+        <source media="(forced-colors: active) and (prefers-color-scheme: light) and (min-width: 1200px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-forced_colors-light-full">
+        <source media="(forced-colors: active) and (prefers-color-scheme: light) and (min-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-forced_colors-light-medium">
+        <source media="(forced-colors: active) and (prefers-color-scheme: light) and (max-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-forced_colors-light-small">
+        <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (min-width: 1200px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-forced_colors-dark-full">
+        <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (min-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-forced_colors-dark-medium">
+        <source media="(forced-colors: active) and (prefers-color-scheme: dark) and (max-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-forced_colors-dark-small">
         <!--- Main queries --->
-        <source media="(prefers-color-scheme: light) and (min-width: 1200px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-light-full?">
-        <source media="(prefers-color-scheme: light) and (min-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-light-medium?">
-        <source media="(prefers-color-scheme: light) and (max-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-light-small?">
-        <source media="(prefers-color-scheme: dark) and (min-width: 1200px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-dark-full?">
-        <source media="(prefers-color-scheme: dark) and (min-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-dark-medium?">
-        <source media="(prefers-color-scheme: dark) and (max-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-dark-small?">
+        <source media="(prefers-color-scheme: light) and (min-width: 1200px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-light-full">
+        <source media="(prefers-color-scheme: light) and (min-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-light-medium">
+        <source media="(prefers-color-scheme: light) and (max-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-light-small">
+        <source media="(prefers-color-scheme: dark) and (min-width: 1200px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-dark-full">
+        <source media="(prefers-color-scheme: dark) and (min-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-dark-medium">
+        <source media="(prefers-color-scheme: dark) and (max-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-dark-small">
         <!--- Fallback queries --->
-        <source media="(prefers-color-scheme: light)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-light-full?">
-        <source media="(prefers-color-scheme: dark)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-dark-full?">
-        <source media="(min-width: 1200px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-dark-full?">
-        <source media="(min-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-dark-medium?">
-        <source media="(max-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-light-small?">
+        <source media="(prefers-color-scheme: light)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-light-full">
+        <source media="(prefers-color-scheme: dark)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-dark-full">
+        <source media="(min-width: 1200px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-dark-full">
+        <source media="(min-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-dark-medium">
+        <source media="(max-width: 800px)" srcset="https://harole.npkn.net/harole-landing-illustration/50_50-normal-light-small">
         <img type="image/svg+xml" alt="Harole, a quirky hobbyist." src="https://harole.npkn.net/harole-landing-illustration/50_50-normal-light-full>" width="900" height="100%" >
     </picture>
 </p>
