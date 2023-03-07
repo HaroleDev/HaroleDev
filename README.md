@@ -14,7 +14,7 @@
         <picture>
             <img draggable="false" aria-hidden type="image/png" src="./assets/quick%20links/Frag%20Empty.png" width="8">
         </picture>
-        <a href="https://preview.studio.site/live/4BqN8BM2Wr">
+        <a href="https://haroleetan.studio.site">
             <picture>
                 <source media="(forced-colors: active)" srcset="./assets/quick%20links/Frag%202%20Forced%20Colors.svg">
                 <source media="(prefers-color-scheme: light)" srcset="./assets/quick%20links/Frag%202%20Light.svg">
@@ -171,7 +171,7 @@
 </h1>
 
 <p>
-    <a href="https://twitter.com/thatharole?ref_src=twsrc%5Etfw">
+    <a href="https://twitter.com/haroleethan?ref_src=twsrc%5Etfw">
         <picture>
             <source media="(forced-colors: active)" srcset="./assets/quick%20links/socials/Follow%20Button%20Forced%Colors.svg">
             <source media="(prefers-color-scheme: light)" srcset="./assets/quick%20links/socials/Follow%20Button%20Light.svg">
