@@ -96,10 +96,6 @@
     Aside from that, I’m a student studying at an international American school in Southern Vietnam.
 </p>
 
-<picture>
-    <img alt="My pronouns are he/him." src="./assets/other%20info/Pronouns%20Pill%20He.svg">
-</picture>
-
 <h1 id="currently_working_on">
     <a href="#user-content-currently_working_on">
         <picture>
